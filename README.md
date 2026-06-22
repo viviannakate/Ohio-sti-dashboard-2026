@@ -8,6 +8,8 @@ server or Python kernel, so it can be hosted directly on **GitHub Pages**.
 This replaces the `ipywidgets` version in `STI_analysis.ipynb`, which cannot run on GitHub
 Pages because `ipywidgets` requires a live Python kernel.
 
+Link to web app: https://viviannakate.github.io/Ohio-sti-dashboard-2026/
+
 ---
 
 ## What's in this repository
